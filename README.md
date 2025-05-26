@@ -14,6 +14,7 @@ Starter Kit ini adalah kerangka awal untuk membangun aplikasi web menggunakan **
 -   Flash message (success/error)
 -   Validasi sisi server
 -   Layout responsif & sudah siap digunakan
+-   Tersedia Helpers (format uang, tanggal indonesia, hitung umur)
 
 ## Requirements
 
