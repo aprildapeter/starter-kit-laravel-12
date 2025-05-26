@@ -59,7 +59,7 @@ Starter Kit ini adalah kerangka awal untuk membangun aplikasi web menggunakan **
 ## Special Thanks to
 
 [Laravel](https://laravel.com/docs/12.x)  
-[AdminLTE](https://adminlte.io/themes/v3/)
+[AdminLTE](https://adminlte.io/themes/v3)
 [Yajra Datatable](https://yajrabox.com/docs/laravel-datatables/12.0)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
