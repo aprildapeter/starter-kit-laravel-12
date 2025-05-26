@@ -1,3 +1,67 @@
+## Laravel 12 And AdminLte v3 Starter Kit
+
+Starter Kit ini adalah kerangka awal untuk membangun aplikasi web menggunakan **Laravel 12** dengan **AdminLTE v3** sebagai template antarmuka admin.
+
+## Features
+
+-   Laravel 12 (terbaru & stabil)
+-   AdminLTE v3 dengan Bootstrap 4
+-   Autentikasi bawaan (login/logout)
+-   Manajemen user (CRUD user)
+-   Struktur folder terorganisir
+-   Template dashboard siap pakai
+-   Integrasi DataTables untuk listing data
+-   Flash message (success/error)
+-   Validasi sisi server
+-   Layout responsif & sudah siap digunakan
+
+## Requirements
+
+-   PHP >= 8.2
+-   Composer
+-   MySQL
+-   Node.js & NPM
+
+## Installation
+
+1. git clone https://github.com/aprildapeter/starter-kit-laravel-12.git
+2. cd starter-kit-laravel-12
+3. composer install
+4. npm install
+5. cp .env.example .env
+6. php artisan key:generate
+7. php artisan migrate
+8. php artisan db:seed
+9. npm run dev
+10. php artisan serve
+11. enjoy it http://127.0.0.1:8000/
+
+## Access Login
+
+1. email : admin@gmail.com Password : 12345678
+
+## Login Page
+
+![image](https://github.com/aprildapeter/starter-kit-laravel-12/blob/Production/public/img/page_login.png)
+
+## Dashboard Page
+
+![image](https://github.com/aprildapeter/starter-kit-laravel-12/blob/Production/public/img/page_dashboard_sidebar.png)
+
+## Master Data User Page
+
+![image](https://github.com/aprildapeter/starter-kit-laravel-12/blob/Production/public/img/page_data_user.png)
+
+## Profile User Login Page
+
+![image](https://github.com/aprildapeter/starter-kit-laravel-12/blob/Production/public/img/page_profile_user_login.png)
+
+## Special Thanks to
+
+[Laravel](https://laravel.com/docs/12.x)  
+[AdminLTE](https://adminlte.io/themes/v3/)
+[Yajra Datatable](https://yajrabox.com/docs/laravel-datatables/12.0)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -11,13 +75,13 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-   [Simple, fast routing engine](https://laravel.com/docs/routing).
+-   [Powerful dependency injection container](https://laravel.com/docs/container).
+-   Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+-   Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+-   Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+-   [Robust background job processing](https://laravel.com/docs/queues).
+-   [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
@@ -35,14 +99,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+-   **[Vehikl](https://vehikl.com)**
+-   **[Tighten Co.](https://tighten.co)**
+-   **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+-   **[64 Robots](https://64robots.com)**
+-   **[Curotec](https://www.curotec.com/services/technologies/laravel)**
+-   **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+-   **[Redberry](https://redberry.international/laravel-development)**
+-   **[Active Logic](https://activelogic.com)**
 
 ## Contributing
 
